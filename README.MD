@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="princepatel | dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][https://dev.to/princepatel1576]
-[<img align="left" alt="princepatel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/prince-patel]
+[<img align="left" alt="princepatel | dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][devdot]
+[<img align="left" alt="princepatel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -33,3 +33,6 @@
 <br />
 
 ---
+
+[linkedin]: https://www.linkedin.com/in/prince-patel
+[devdot]: https://dev.to/princepatel1576
