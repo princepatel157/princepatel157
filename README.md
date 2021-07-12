@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: To become a Full Stack Developer
-- ⚡ Fun fact: I love to involve in everything
+- ⚡ Fun fact: I love to involve in everything 😆
 
 ### Connect with me:
 
