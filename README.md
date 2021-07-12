@@ -3,7 +3,7 @@
 ## I'm a Engineering Student and a Web Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other content creators 🤝
 - 🥅 2021 Goals: To become a Full Stack Developer
 - ⚡ Fun fact: I love to involve in everything 😆
 
