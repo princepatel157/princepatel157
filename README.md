@@ -1,10 +1,10 @@
 ### 👋 Hi there, I'm Prince Patel 🇮🇳
 
-## I'm a Engineering Student and a Web Developer!!
+## I'm a Web Developer!!
 
-- 🌱 I’m currently learning MERN Stack
+- 🌱 Getting myself expert in MERN Stack
 - 👯 I’m looking to collaborate with other content creators 🤝
-- 🥅 2022 Goal: To become a Full Stack Developer
+- 🥅 2023 Goal: Dive into web3 technologies
 - ⚡ Fun fact: I love to involve in everything 😆
 
 ### Connect with me:
