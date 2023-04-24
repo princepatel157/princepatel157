@@ -6,8 +6,8 @@
 - 👯 I’m looking to collaborate with other content creators 🤝
 - 🥅 2023 Goal: Dive into web3 technologies
 - ⚡ Fun fact: I love to involve in everything 😆
-- visit my portfolio- https://princepatel.netlify.app/
-- visit my BlogPage- https://fertileminds.in/
+- 🥇 visit my portfolio- https://princepatel.netlify.app/
+- 🥇 visit my BlogPage- https://fertileminds.in/
 
 ### Connect with me:
 
